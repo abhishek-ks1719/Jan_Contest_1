@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
+body{
+    background-color: #1e1d1d;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+table{
+    background-color: #1e1d1d;
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    border-collapse: collapse;
+}
+table td{
+    padding-top: 2%;
+    padding-bottom: 1%;
+    border-bottom:1px solid whitesmoke;
+}
